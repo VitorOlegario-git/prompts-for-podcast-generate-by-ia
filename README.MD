@@ -67,21 +67,9 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 ## 👨‍💻 Student
 
 <p>
-    
-    
-    
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/VitorOlegario-git">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.linkedin.com/in/vitor-olegario-286a42139/">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;</p>
+  &nbsp;&nbsp;&nbsp;Vitor Olegario<br>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/VitorOlegario-git" target="_blank">GitHub</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/vitor-olegario-286a42139/" target="_blank">LinkedIn</a>
 </p>
-<br/><br/>
-<p>
+
